@@ -4,4 +4,4 @@ spring:
   profiles:
     active: dev
 config:
-    info: main branch, springcloud-config/config-dev.yml version=7
+    info: main branch, springcloud-config/config-dev.yml version=8
